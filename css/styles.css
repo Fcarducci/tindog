@@ -153,6 +153,11 @@ p {
     text-align: center;
   }
 
+  .burguer {
+    width: 2rem;
+    height: 2rem;
+  }
+
   .first-img {
     position: static;
     transform: rotate(0);
